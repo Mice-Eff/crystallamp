@@ -1,5 +1,5 @@
 /*
-CREATED BY MICE_EFF https://www.youtube.com/channel/UCskKehuN94_IfqK1HFSkfyQ
+CREATED BY MICE_EFF https://www.youtube.com/watch?v=MZ1720v6W88&t=165s
 */
 
 #include "Adafruit_NeoPixel.h"  // https://github.com/adafruit/Adafruit_NeoPixel
